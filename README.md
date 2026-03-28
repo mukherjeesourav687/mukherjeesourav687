@@ -29,16 +29,16 @@
 
 ## 📁 Featured Projects
 
-### 🛒 [Superstore Sales Analysis](https://github.com/mukherjeesourav687)
+### 🛒 [Superstore Sales Analysis](https://github.com/mukherjeesourav687/superstore-sales-analysis)
 Identified key sales trends, top-performing regions, and product insights using EDA with Pandas and Matplotlib.
 
-### 📈 [CPI Inflation Analysis](https://github.com/mukherjeesourav687)
+### 📈 [CPI Inflation Analysis](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
 Analysed India's inflation trends (2013–2023) using Excel, uncovering patterns and economic insights through visualisation.
 
-### 📦 [Amazon Orders Data Analysis](https://github.com/mukherjeesourav687)
+### 📦 [Amazon Orders Data Analysis](https://github.com/mukherjeesourav687/amazon-orders-analysis)
 Built an Excel dashboard to analyse order patterns, revenue trends, and overall business performance.
 
-### 🍳 [Kitchen Prep Time (KPT) Analysis](https://github.com/mukherjeesourav687)
+### 🍳 [Kitchen Prep Time (KPT) Analysis](https://github.com/mukherjeesourav687/kpt-analysis)
 Identified operational inefficiencies and analysed delivery delays to improve kitchen preparation performance.
 
 ---
