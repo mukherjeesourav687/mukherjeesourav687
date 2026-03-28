@@ -10,8 +10,8 @@
 - 🎯 Aspiring Data Analyst focused on SQL, Python, Excel, and Power BI
 - 📊 Passionate about data storytelling and building meaningful visualizations
 - 🧠 Enjoy solving real-world business problems through data
-- 📚 Currently working through the LeetCode SQL 50 Study Plan
-- 🌱 Always learning — one dataset at a time
+- 📚 Working through the LeetCode SQL 50 Study Plan — 13+ problems solved so far
+- 🌱 Continuously improving through real-world data projects
 
 ---
 
@@ -30,16 +30,16 @@
 ## 📁 Featured Projects
 
 ### 🛒 [Superstore Sales Analysis](https://github.com/mukherjeesourav687)
-Python EDA project exploring sales trends, regional performance, and product insights using Pandas and Matplotlib.
+Identified key sales trends, top-performing regions, and product insights using EDA with Pandas and Matplotlib.
 
 ### 📈 [CPI Inflation Analysis](https://github.com/mukherjeesourav687)
-Excel-based analysis of India's inflation trends from 2013–2023 with visualizations and economic insights.
+Analysed India's inflation trends (2013–2023) using Excel, uncovering patterns and economic insights through visualisation.
 
 ### 📦 [Amazon Orders Data Analysis](https://github.com/mukherjeesourav687)
-Excel dashboard analyzing order patterns, revenue trends, and overall business performance.
+Built an Excel dashboard to analyse order patterns, revenue trends, and overall business performance.
 
 ### 🍳 [Kitchen Prep Time (KPT) Analysis](https://github.com/mukherjeesourav687)
-Operational analysis identifying delivery inefficiencies and optimizing kitchen preparation time.
+Identified operational inefficiencies and analysed delivery delays to improve kitchen preparation performance.
 
 ---
 
