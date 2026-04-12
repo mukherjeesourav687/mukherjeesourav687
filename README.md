@@ -1,83 +1,117 @@
 <h1 align="center">Hi, I'm Sourav Mukherjee 👋</h1>
 <p align="center">
-  Aspiring Data Analyst · Turning raw data into real decisions
+  Data Analyst in Progress · SQL | Python | Power BI  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mukherjeesourav687&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-brightgreen" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-orange" />
 </p>
 
 ---
 
-## 🙋 About Me
+## 🚀 About Me
 
-- 🎯 Aspiring Data Analyst focused on SQL, Python, Excel, and Power BI  
-- 📊 Passionate about data storytelling and building meaningful visualizations  
-- 🧠 Enjoy solving real-world business problems through data  
-- 💪 Solving Medium & Hard SQL problems on LeetCode and StrataScratch — skipping easy, building real skills  
-- 🤖 Certified in AI Fluency by Anthropic — applying AI intentionally in real workflows  
-- 🌱 Continuously improving through real-world data projects  
-
----
-
-## 🛠️ Skills & Tools
-
-| Category | Tools |
-|----------|-------|
-| Languages | SQL, Python |
-| Libraries | Pandas, Matplotlib |
-| BI & Visualization | Power BI, Excel |
-| Version Control | Git, GitHub |
-| AI Tools | Claude (Anthropic) |
-| Core Skills | EDA, Data Cleaning, Data Storytelling |
+- 🎯 Building strong foundations in **SQL, Python, Excel, and Power BI**
+- 📊 Focused on **real-world data problems**, not just theory
+- 💡 Turning messy datasets into **clear business insights**
+- 💪 Solving **Medium & Hard SQL problems daily**
+- 🤖 Using AI tools like **Claude** to improve workflow thinking
+- 🌱 Currently growing through **hands-on projects + analytics practice**
 
 ---
 
-## 📁 Featured Projects
+## 🧠 What I Bring
 
-### 🛒 [Superstore Sales Analysis](https://github.com/mukherjeesourav687/superstore-sales-analysis)
-Identified key sales trends, top-performing regions, and product insights using EDA with Pandas and Matplotlib.
+- Strong understanding of **EDA & Data Cleaning**
+- Ability to translate **business problems → data queries**
+- Hands-on experience with **dashboards & insights**
+- Consistent practice mindset (projects + SQL daily)
 
-### 📈 [CPI Inflation Analysis](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
-Analysed India's inflation trends (2013–2023) using Excel, uncovering patterns and economic insights through visualisation.
+---
 
-### 📦 [Amazon Orders Data Analysis](https://github.com/mukherjeesourav687/amazon-orders-analysis)
-Built an Excel dashboard to analyse order patterns, revenue trends, and overall business performance.
+## 🛠️ Tech Stack
 
-### 🍳 [Kitchen Prep Time (KPT) Analysis](https://github.com/mukherjeesourav687/kpt-analysis)
-Identified operational inefficiencies and analysed delivery delays to improve kitchen preparation performance.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
+
+- SQL (Advanced querying, Joins, Window Functions)
+- Python (Pandas, Matplotlib)
+- Power BI & Excel (Dashboards, Analysis)
+- Git & GitHub (Version control)
 
 ---
 
 ## 📊 SQL Practice
 
-> Skipping easy problems — focused on **Medium & Hard** to build real interview-ready SQL skills.
+> Focus: **Interview-level SQL (Medium + Hard only)**
 
-| Platform | Focus | Problems Solved | Repo |
-|----------|-------|-----------------|------|
-| LeetCode SQL 50 | Medium + Hard only | 17 solved | [View](https://github.com/mukherjeesourav687/leetcode-sql-50) |
-| StrataScratch | Medium + Hard only | 10 solved | [View](https://github.com/mukherjeesourav687/stratascratch-sql-solutions) |
+| Platform | Progress | Repo |
+|----------|---------|------|
+| LeetCode SQL 50 | 17 / 50 | [View](https://github.com/mukherjeesourav687/leetcode-sql-50) |
+| StrataScratch | 10+ Problems | [View](https://github.com/mukherjeesourav687/stratascratch-sql-solutions) |
 
-![LeetCode](https://img.shields.io/badge/LeetCode-17%20Solved-orange)
-![StrataScratch](https://img.shields.io/badge/StrataScratch-10%20Solved-blue)
-![SQL](https://img.shields.io/badge/SQL-Interview%20Ready-brightgreen)
-
----
-
-## 🤖 AI Certifications — Anthropic Academy
-
-> Completed **3 certifications** from Anthropic's official learning platform.
-
-| Course | Score | Certificate |
-|--------|-------|-------------|
-| AI Fluency: Framework & Foundations | 10 / 10 ✅ | Completed |
-| Claude 101 | -- | Completed |
-| Introduction to Claude Cowork | -- | Completed |
-
-![Anthropic](https://img.shields.io/badge/Anthropic-3%20Certifications-purple)
-![AI Fluency](https://img.shields.io/badge/AI%20Fluency-10%2F10-gold)
-
-> "AI isn't about tools. It's about how you think and ask."
+<p>
+  <img src="https://img.shields.io/badge/SQL-Interview%20Ready-brightgreen" />
+  <img src="https://img.shields.io/badge/Consistency-Daily-blue" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
+## 📁 Featured Projects
+
+### 🛒 Superstore Sales Analysis
+- Identified **top-performing regions & products**
+- Used **Pandas + Matplotlib** for EDA  
+👉 [View Project](https://github.com/mukherjeesourav687/superstore-sales-analysis)
+
+### 📈 CPI Inflation Analysis
+- Analysed **10 years of inflation trends**
+- Built insights using **Excel visualisation**  
+👉 [View Project](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
+
+### 📦 Amazon Orders Dashboard
+- Built an **Excel dashboard** for revenue & order trends  
+👉 [View Project](https://github.com/mukherjeesourav687/amazon-orders-analysis)
+
+### 🍳 Kitchen Prep Time (KPT) Analysis
+- Analysed **delivery inefficiencies**
+- Focused on **operational insights**  
+👉 [View Project](https://github.com/mukherjeesourav687/kpt-analysis)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukherjeesourav687" />
+</p>
+
+---
+
+## 🤖 AI Certifications
+
+- ✅ AI Fluency (Anthropic) — **10/10**
+- ✅ Claude 101
+- ✅ Introduction to Claude Cowork
+
+> “AI is not a shortcut — it’s a thinking amplifier.”
+
+---
+
+## 🎯 Current Focus
+
+- Advanced SQL (Window Functions, CTEs)
+- Real-world analytics projects
+- Building strong **data storytelling skills**
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mukherjeesourav687">
@@ -87,4 +121,10 @@ Identified operational inefficiencies and analysed delivery delays to improve ki
   <a href="https://github.com/mukherjeesourav687">
     <img src="https://img.shields.io/badge/GitHub-mukherjeesourav687-black?logo=github" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Consistent learning. Real skills. No shortcuts.</i>
 </p>
