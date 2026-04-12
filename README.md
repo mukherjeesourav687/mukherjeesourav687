@@ -7,12 +7,12 @@
 
 ## 🙋 About Me
 
-- 🎯 Aspiring Data Analyst focused on SQL, Python, Excel, and Power BI
-- 📊 Passionate about data storytelling and building meaningful visualizations
-- 🧠 Enjoy solving real-world business problems through data
-- 💪 Solving Medium & Hard SQL problems on LeetCode and StrataScratch — skipping easy, building real skills
-- 🤖 Certified in AI Fluency by Anthropic — applying AI intentionally in real workflows
-- 🌱 Continuously improving through real-world data projects
+- 🎯 Aspiring Data Analyst focused on SQL, Python, Excel, and Power BI  
+- 📊 Passionate about data storytelling and building meaningful visualizations  
+- 🧠 Enjoy solving real-world business problems through data  
+- 💪 Solving Medium & Hard SQL problems on LeetCode and StrataScratch — skipping easy, building real skills  
+- 🤖 Certified in AI Fluency by Anthropic — applying AI intentionally in real workflows  
+- 🌱 Continuously improving through real-world data projects  
 
 ---
 
@@ -51,18 +51,18 @@ Identified operational inefficiencies and analysed delivery delays to improve ki
 
 | Platform | Focus | Problems Solved | Repo |
 |----------|-------|-----------------|------|
-| LeetCode SQL 50 | Medium + Hard only | 18 solved | [View](https://github.com/mukherjeesourav687/leetcode-sql-50) |
-| StrataScratch | Medium + Hard only | 1+ solved | [View](https://github.com/mukherjeesourav687/stratascratch-sql-solutions-) |
+| LeetCode SQL 50 | Medium + Hard only | 17 solved | [View](https://github.com/mukherjeesourav687/leetcode-sql-50) |
+| StrataScratch | Medium + Hard only | 10 solved | [View](https://github.com/mukherjeesourav687/stratascratch-sql-solutions) |
 
-![LeetCode](https://img.shields.io/badge/LeetCode-18%20Medium%2FHard-orange)
-![StrataScratch](https://img.shields.io/badge/StrataScratch-Active-blue)
+![LeetCode](https://img.shields.io/badge/LeetCode-17%20Solved-orange)
+![StrataScratch](https://img.shields.io/badge/StrataScratch-10%20Solved-blue)
 ![SQL](https://img.shields.io/badge/SQL-Interview%20Ready-brightgreen)
 
 ---
 
 ## 🤖 AI Certifications — Anthropic Academy
 
-> Completed **3 certifications** from Anthropic's official learning platform in one week.
+> Completed **3 certifications** from Anthropic's official learning platform.
 
 | Course | Score | Certificate |
 |--------|-------|-------------|
