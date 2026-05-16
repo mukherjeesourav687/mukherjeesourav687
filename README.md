@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sourav Mukherjee 👋</h1>
+
 <p align="center">
-  Data Analyst in Progress · SQL | Python | Power BI  
+  Aspiring Data Analyst · SQL · Python · Power BI · Excel
 </p>
 
 <p align="center">
@@ -13,21 +14,21 @@
 
 ## 🚀 About Me
 
-- 🎯 Building strong foundations in **SQL, Python, Excel, and Power BI**
-- 📊 Focused on **real-world data problems**, not just theory
-- 💡 Turning messy datasets into **clear business insights**
-- 💪 Solving **Medium & Hard SQL problems daily**
-- 🤖 Using AI tools like **Claude** to improve workflow thinking
-- 🌱 Currently growing through **hands-on projects + analytics practice**
+- 🎯 Building strong foundations in SQL, Python, Excel, and Power BI
+- 📊 Focused on solving real-world data and business problems
+- 💡 Turning raw datasets into actionable business insights
+- 💪 Practicing SQL consistently through interview-level problems
+- 🤖 Exploring AI tools to improve analytics workflows and productivity
+- 🌱 Growing through hands-on projects and continuous learning
 
 ---
 
 ## 🧠 What I Bring
 
-- Strong understanding of **EDA & Data Cleaning**
-- Ability to translate **business problems → data queries**
-- Hands-on experience with **dashboards & insights**
-- Consistent practice mindset (projects + SQL daily)
+- Exploratory Data Analysis (EDA) & Data Cleaning
+- Dashboard Creation & Data Visualization
+- Business-focused analytical thinking
+- Practical experience with analytics projects and reporting
 
 ---
 
@@ -37,48 +38,45 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
 </p>
 
-- SQL (Advanced querying, Joins, Window Functions)
-- Python (Pandas, Matplotlib)
-- Power BI & Excel (Dashboards, Analysis)
-- Git & GitHub (Version control)
+- SQL (Joins, CTEs, Window Functions)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI & Advanced Excel
+- Git & GitHub
+- Chart.js & Jupyter Notebook
 
 ---
 
 ## 📊 SQL Practice
 
-> Focus: **Interview-level SQL (Medium + Hard only)**
+> Focus: Interview-level SQL practice
 
-| Platform | Progress | Repo |
-|----------|---------|------|
+| Platform | Progress | Repository |
+|----------|----------|-------------|
 | LeetCode SQL 50 | 17 / 50 | [View](https://github.com/mukherjeesourav687/leetcode-sql-50) |
 | StrataScratch | 10+ Problems | [View](https://github.com/mukherjeesourav687/stratascratch-sql-solutions) |
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-Interview%20Ready-brightgreen" />
-  <img src="https://img.shields.io/badge/Consistency-Daily-blue" />
-</p>
 
 ---
 
 ## 📁 Featured Projects
 
-### 🛒 Superstore Sales Analysis
-- Identified **top-performing regions & products**
-- Used **Pandas + Matplotlib** for EDA  
-👉 [View Project](https://github.com/mukherjeesourav687/superstore-sales-analysis)
+### 🛒 Customer Shopping Behavior Analysis
+- End-to-end customer behavior analysis using Python, SQL, and Power BI
+- Built dashboards to identify sales trends, KPIs, and customer insights  
+👉 [View Project](https://github.com/mukherjeesourav687/customer-shopping-behavior-analysis)
+
+### 🏪 Retail Analytics SQL Project
+- Solved business-focused retail analysis problems using SQL and MySQL
+- Applied joins, aggregations, subqueries, and window functions  
+👉 [View Project](https://github.com/mukherjeesourav687/retail-analytics-sql-project)
 
 ### 📈 CPI Inflation Analysis
-- Analysed **10 years of inflation trends**
-- Built insights using **Excel visualisation**  
+- Analyzed inflation trends and economic patterns using Excel
+- Created visual reports and trend-based insights  
 👉 [View Project](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
 
-### 📦 Amazon Orders Dashboard
-- Built an **Excel dashboard** for revenue & order trends  
-👉 [View Project](https://github.com/mukherjeesourav687/amazon-orders-analysis)
-
 ### 🍳 Kitchen Prep Time (KPT) Analysis
-- Analysed **delivery inefficiencies**
-- Focused on **operational insights**  
+- Analyzed delivery inefficiencies and operational performance
+- Focused on improving decision-making through data insights  
 👉 [View Project](https://github.com/mukherjeesourav687/kpt-analysis)
 
 ---
@@ -93,21 +91,21 @@
 
 ---
 
-## 🤖 AI Certifications
+## 📜 Certifications
 
-- ✅ AI Fluency (Anthropic) — **10/10**
-- ✅ Claude 101
-- ✅ Introduction to Claude Cowork
-
-> “AI is not a shortcut — it’s a thinking amplifier.”
+- Coding Ninjas Data Analytics Bootcamp (Ongoing)
+- Deloitte Australia Data Analytics — Forage
+- Excel for Data Analysis — Infosys Springboard
+- HackerRank Certified (SQL Basic & Excel)
 
 ---
 
 ## 🎯 Current Focus
 
-- Advanced SQL (Window Functions, CTEs)
+- Advanced SQL & Window Functions
 - Real-world analytics projects
-- Building strong **data storytelling skills**
+- Dashboard storytelling & business insights
+- Strengthening Python for data analytics
 
 ---
 
@@ -126,5 +124,5 @@
 ---
 
 <p align="center">
-  <i>Consistent learning. Real skills. No shortcuts.</i>
+  <i>Consistent learning. Practical projects. Real analytics skills.</i>
 </p>
