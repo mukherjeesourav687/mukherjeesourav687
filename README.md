@@ -76,16 +76,6 @@
 
 ---
 
-## 📊 SQL Practice Journey
-
-| Platform           | Progress     |
-| ------------------ | ------------ |
-| LeetCode SQL 50    | 17 / 50      |
-| StrataScratch      | 10+ Problems |
-| Daily SQL Practice | Ongoing      |
-
----
-
 ## 📁 Featured Projects
 
 ### 📈 Marketing Campaign Analysis
@@ -116,20 +106,9 @@
 
 ---
 
-## 📜 Certifications
-
-* Coding Ninjas Data Analytics Bootcamp (Ongoing)
-* Deloitte Australia Data Analytics Job Simulation (Forage)
-* Excel for Data Analysis – Infosys Springboard
-* HackerRank SQL Certification
-* HackerRank Excel Certification
-
----
-
 ## 🎯 Current Focus
 
-* Advanced SQL & Window Functions
-* Python for Data Analytics
+* EDA with Python
 * Dashboard Storytelling
 * Business Analytics
 * Statistics for Data Science
