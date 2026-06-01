@@ -78,28 +78,28 @@
 
 ## 📁 Featured Projects
 
-### 📈 Marketing Campaign Analysis
+### 📈 [Marketing Campaign Analysis](https://github.com/mukherjeesourav687/marketing-campaign-analysis-python)
 
 * Compared Facebook and AdWords campaign performance
 * Performed EDA, statistical testing, and regression analysis
 * Built conversion prediction models using Linear Regression
 
-### 🛒 Customer Shopping Behavior Analysis
+### 🛒 [Customer Shopping Behavior Analysis](https://github.com/mukherjeesourav687/customer-shopping-behavior-analysis)
 
 * Customer segmentation and purchasing pattern analysis
 * Interactive dashboards and KPI tracking
 
-### 🏪 Retail Analytics SQL Project
+### 🏪 [Retail Analytics SQL Project](https://github.com/mukherjeesourav687/retail-analytics-sql-project)
 
 * Solved business-focused retail analytics problems
 * Applied joins, window functions, aggregations, and CTEs
 
-### 📊 CPI Inflation Analysis
+### 📊 [CPI Inflation Analysis](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
 
 * Analysed inflation trends and economic indicators
 * Created visual reports and insights
 
-### 🍳 Kitchen Prep Time Analysis
+### 🍳 [Kitchen Prep Time Analysis](https://github.com/mukherjeesourav687/kpt-analysis)
 
 * Analysed operational inefficiencies and delivery performance
 * Focused on KPI-driven business recommendations
