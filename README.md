@@ -104,7 +104,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://readme-stats.clckblog.space/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
 </p>
