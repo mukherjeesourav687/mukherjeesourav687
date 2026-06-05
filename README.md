@@ -104,7 +104,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukherjeesourav687&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophy" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
 </p>
