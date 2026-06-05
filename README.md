@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukherjeesourav687&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success" />
-  <img src="https://img.shields.io/badge/Learning-Statistics%20%26%20Machine%20Learning-orange" />
+  <img src="https://komarev.com/ghpvc/?username=mukherjeesourav687&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success" alt="Open to Roles" />
+  <img src="https://img.shields.io/badge/Learning-Statistics%20%26%20Machine%20Learning-orange" alt="Learning" />
 </p>
 
 ---
@@ -30,7 +30,6 @@
 ## 🧠 Core Skills
 
 ### Data Analysis
-
 * Exploratory Data Analysis (EDA)
 * Data Cleaning & Transformation
 * Statistical Analysis
@@ -38,7 +37,6 @@
 * Business Analytics
 
 ### SQL
-
 * Joins
 * CTEs
 * Subqueries
@@ -46,7 +44,6 @@
 * Aggregations
 
 ### Python
-
 * Pandas
 * NumPy
 * Matplotlib
@@ -54,7 +51,6 @@
 * Scikit-Learn
 
 ### Visualization
-
 * Power BI
 * Excel Dashboards
 * Data Storytelling
@@ -64,45 +60,38 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,git,github" alt="Tech Stack" />
 </p>
 
-* SQL
-* Python
-* Power BI
-* Excel
-* Git & GitHub
-* Jupyter Notebook
+* **Languages & Databases:** Python, SQL (MySQL)
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+* **BI Tools & Spreadsheets:** Power BI, Microsoft Excel
+* **Tools & Platforms:** Git, GitHub, Jupyter Notebook
 
 ---
 
 ## 📁 Featured Projects
 
 ### 📈 [Marketing Campaign Analysis](https://github.com/mukherjeesourav687/marketing-campaign-analysis-python)
-
-* Compared Facebook and AdWords campaign performance
-* Performed EDA, statistical testing, and regression analysis
-* Built conversion prediction models using Linear Regression
+* Compared Facebook and AdWords campaign performance.
+* Performed EDA, statistical testing, and regression analysis.
+* Built conversion prediction models using Linear Regression.
 
 ### 🛒 [Customer Shopping Behavior Analysis](https://github.com/mukherjeesourav687/customer-shopping-behavior-analysis)
-
-* Customer segmentation and purchasing pattern analysis
-* Interactive dashboards and KPI tracking
+* Customer segmentation and purchasing pattern analysis.
+* Interactive dashboards and KPI tracking.
 
 ### 🏪 [Retail Analytics SQL Project](https://github.com/mukherjeesourav687/retail-analytics-sql-project)
-
-* Solved business-focused retail analytics problems
-* Applied joins, window functions, aggregations, and CTEs
+* Solved business-focused retail analytics problems.
+* Applied joins, window functions, aggregations, and CTEs.
 
 ### 📊 [CPI Inflation Analysis](https://github.com/mukherjeesourav687/cpi-inflation-analysis)
-
-* Analysed inflation trends and economic indicators
-* Created visual reports and insights
+* Analyzed inflation trends and economic indicators.
+* Created visual reports and insights.
 
 ### 🍳 [Kitchen Prep Time Analysis](https://github.com/mukherjeesourav687/kpt-analysis)
-
-* Analysed operational inefficiencies and delivery performance
-* Focused on KPI-driven business recommendations
+* Analyzed operational inefficiencies and delivery performance.
+* Focused on KPI-driven business recommendations.
 
 ---
 
@@ -118,9 +107,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesourav687&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukherjeesourav687" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukherjeesourav687&theme=visual_studio_dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -128,12 +117,11 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mukherjeesourav687">
-    <img src="https://img.shields.io/badge/LinkedIn-Sourav%20Mukherjee-blue?logo=linkedin" />
+  <a href="https://www.linkedin.com/in/mukherjeesourav687" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sourav%20Mukherjee-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/mukherjeesourav687">
-    <img src="https://img.shields.io/badge/GitHub-mukherjeesourav687-black?logo=github" />
+  <a href="https://github.com/mukherjeesourav687" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mukherjeesourav687-black?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
 
