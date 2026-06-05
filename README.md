@@ -107,9 +107,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.com/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
+  <img src="https://git-streak-stats.lecoq.io/?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
