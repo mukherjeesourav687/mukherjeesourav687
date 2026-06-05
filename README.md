@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Sourav Mukherjee 👋</h1>
-
 <p align="center">
   <b>Data Analyst | SQL | Python | Power BI | Excel</b>
 </p>
-
 <p align="center">
   Transforming raw data into actionable business insights
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mukherjeesourav687&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-success" alt="Open to Roles" />
@@ -60,7 +57,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" alt="Tech Stack" />
 </p>
 
 * **Languages & Databases:** Python, SQL (MySQL)
@@ -107,9 +104,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukherjeesourav687&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://git-streak-stats.lecoq.io/?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mukherjeesourav687&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
